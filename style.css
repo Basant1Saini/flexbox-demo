@@ -1,6 +1,7 @@
 form{
     display: flex ;
-    align-items: flex-end;
+    flex-direction: row;
+    align-items: flex-center;
     gap: 16px;
 }
 .name
