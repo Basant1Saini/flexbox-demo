@@ -1,6 +1,6 @@
 form{
     display: flex ;
-    flex-direction: row;
+    flex-direction: column;
     align-items: flex-center;
     gap: 16px;
 }
